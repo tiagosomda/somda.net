@@ -1,8 +1,7 @@
 // URL mappings: key -> target URL
 let urlMappings = {
     'thales-1': 'https://thales-1.com',
-    'thales-2': 'https://thales-2.com',
-	'hh-expense':'https://docs.google.com/forms/d/e/1FAIpQLSdFULHWvk6a-VSa2cNLaynbMcEXxwDzPEL_gk7PAqEqjkmoew/viewform'
+    'thales-2': 'https://thales-2.com'
 };
 
 // Fetch dynamic mappings from Google Sheets
